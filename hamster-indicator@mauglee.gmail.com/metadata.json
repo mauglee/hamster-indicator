@@ -1,0 +1,8 @@
+{
+  "name": "Hamster indicator",
+  "description": "Shows Hamster time tracker indicator",
+  "uuid": "hamster-indicator@mauglee.gmail.com",
+  "shell-version": [
+    "42"
+  ]
+}

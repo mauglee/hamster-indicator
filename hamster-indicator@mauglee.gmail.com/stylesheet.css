@@ -1,0 +1,7 @@
+.hamster-box{
+    color: rgba(255, 255, 255, .5);
+}
+
+.hamster-box.active{
+    color: limegreen;
+}
